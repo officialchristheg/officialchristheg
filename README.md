@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 16-year old developer with over 3 years of experience in coding, primarily focused on C/C++ and backend development. I enjoy building tools, systems, and backend applications that are fast, reliable, and actually useful.<br>Over the years, I’ve worked with Python C#, JavaScript, HTML/CSS, MySQL, and developed Discord bots. I also have experience with reverse engineering and server - client communication.<br>In 2021, I started selling online and turned that into something bigger with the launch of JJ Reselling in 2023.
+I'm a 16-year old developer with over 3 years of experience in coding, primarily focused on C/C++ and backend development. I enjoy building tools, systems, and backend applications that are fast, reliable, and actually useful.<br>Over the years, I’ve worked with Python C#, JavaScript, HTML/CSS, MySQL, and developed Discord bots. I also have experience with reverse engineering and secrue server - client communication.<br>In 2021, I started selling online and turned that into something bigger with the launch of JJ Reselling in 2023.
 
 
 ## 🌐 Socials:
