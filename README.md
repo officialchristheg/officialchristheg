@@ -3,7 +3,7 @@ I'm a 16-year-old developer with over 3 years of programming experience, special
 
 Over the years, I’ve also worked with Python, C#, JavaScript, HTML/CSS, and MySQL, and have developed several Discord bots. My skill set includes reverse engineering, cybersecurity, and low-level system programming.
 
-In 2021, I began selling online, which eventually led to the launch of JJ Reselling in 2023—turning a small venture into a growing brand.
+In 2021, I began selling online, which eventually led to the launch of JJ Reselling in 2023 turning a small idea into a growing brand.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jjreselling) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jjreselling) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@JJReselling) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chris@jj-reselling.shop) 
