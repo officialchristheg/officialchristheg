@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 16-year-old developer with **3+ years of programming experience** — mostly in **C++** and backend development — building **fast, reliable, and practical** tools, systems, and applications.
+I’m a 16-year-old developer with **3+ years of programming experience** - mostly in **C++** and backend development - building **fast, reliable, and practical** tools, systems, and applications.
 
 I’m into:
 * Low & High level system programming
