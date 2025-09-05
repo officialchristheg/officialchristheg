@@ -12,16 +12,14 @@ Currently, I’m the **Founder & CEO** of:
 * https://jj-reselling.store
 * https://kazo-cheats.com
 
----
-
 ## 📩 Contact
 * **Discord:** https://discord.com/users/1255093381881794561
 * **Email:** [chris@jj-reselling.shop](mailto:chris@jj-reselling.shop)
----
+
 ## 🌐 Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/jjreselling)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/@JJReselling)
----
+
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
