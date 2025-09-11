@@ -14,7 +14,7 @@ Currently, I’m the **Founder & CEO** of:
 
 ## 📩 Contact
 * **Discord:** https://discord.com/users/1255093381881794561
-* **Email:** [chris@jj-reselling.shop](mailto:chris@jj-reselling.shop)
+* **Email:** [chris@jj-reselling.shop](mailto:chris@jj-reselling.store)
 
 ## 🌐 Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/jjreselling)
