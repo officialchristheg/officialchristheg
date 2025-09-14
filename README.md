@@ -3,7 +3,7 @@ I’m a **16 year old developer** with over **4 years of programming experience*
 
 I’m into:
 * Low & High-Level System Programming
-* Reverse Engineering, Game Security & Cyber Security
+* Networking, Reverse Engineering, Game Hacking & Cyber Security
 
 Beyond C++, I’ve also built projects with:
 * Python · C# · JavaScript · HTML/CSS · MySQL · PHP · Discord Bots
