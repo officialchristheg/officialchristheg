@@ -5,13 +5,6 @@ I’m into:
 * Low & High-Level System Programming
 * Networking, Reverse Engineering, Game Hacking & Cyber Security
 
-Beyond C++, I’ve also built projects with:
-* Python · C# · JavaScript · HTML/CSS · MySQL · PHP · Discord Bots
-
-Currently, I’m the **Founder & CEO** of:
-* https://jj-reselling.store
-* https://kazo-cheats.com
-
 ## 📩 Contact
 * **Discord:** https://discord.com/users/1255093381881794561
 * **Email:** [chris@jj-reselling.store](mailto:chris@jj-reselling.store)
