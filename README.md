@@ -6,7 +6,7 @@
 * **Discord:** https://discord.com/users/1255093381881794561
 
 ## Socials
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/jjreselling)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/christheg1122)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/@JJReselling)
 
 ## Tech Stack
