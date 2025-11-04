@@ -1,8 +1,5 @@
 Hi Im Chris!
-
-## I’m into:
-* Low & High-Level System Programming
-* Networking, Reverse Engineering, Game Hacking & Cyber Security
+I love coding and building applications. I’m into low and high-level programming, networking, reverse engineering, game hacking, and cyber security.
 
 ## Contact
 * **Discord:** https://discord.com/users/1255093381881794561
